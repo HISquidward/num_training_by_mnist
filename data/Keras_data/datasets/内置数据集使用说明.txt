@@ -1,0 +1,20 @@
+添加 日月光华老师 微信  louhh01  可获得优惠！！
+
+Keras内置数据集包含 cifar10、fashion mnsit、imdb电影评论、mnsit等入门最常用的数据集，
+
+这些数据集可以直接用代码加载，加载方式如下所示(以mnsit数据为例)：
+
+mnist = tf.keras.datasets.mnist.load_data()
+
+
+运行这行代码，默认会从国外网站下载这些数据，但是很多时候会下载不下来，
+
+可以将 分享的 datasets 中的数据集文件  
+       拷贝到 你的用户文件夹 下的 .keras文件夹下的datasets文件夹 里面  ，（比如我的win10计算机，就是这个目录 C:\Users\Administrator\.keras\datasets）
+
+这样运行加载数据集的代码就会直接从本地加载了
+
+欢迎关注日月光华网易云课堂课程，我们的课程是全网最简明易懂的tensorflow课程：
+https://study.163.com/course/courseMain.htm?courseId=1004573006&share=2&shareId=400000000187044
+
+添加 日月光华老师 微信  louhh01  可获得优惠！！
